@@ -1,0 +1,31 @@
+.header
+{
+    padding: 20px 100px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #7DCAFE;
+    color: #fff;
+}
+
+.headerLink
+{
+    text-decoration: none;
+    margin-right: 75px;
+    color: #fff;
+}
+
+.h2
+{
+    text-align: center;
+    color: #063C7A;
+}
+
+.b
+{
+    border: groove;
+    border-radius: 5px;
+    border-color: #0A619C;
+    background-color: #BCE4FF;
+    font-size: 12px;
+    height: 27px;
+}
